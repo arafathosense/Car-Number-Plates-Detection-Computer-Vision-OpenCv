@@ -8,7 +8,7 @@
 
             pip install opencv-python
             pip install numpy
-**Step 3:** Wait until all installations are completed successfully. Then, simply run the program and see your result!
+**Step 3:** Wait until all installations are completed successfully. Then, run the program and see your result!
 
 **📬 Contact**
 
