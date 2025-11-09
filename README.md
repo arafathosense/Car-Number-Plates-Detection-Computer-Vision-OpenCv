@@ -10,7 +10,7 @@
             pip install numpy
 **Step 3:** Wait until all installations are completed successfully. Then, simply run the program and see your result!
 
-📬 Contact
+**📬 Contact**
 
 If you face any problems, feel free to reach out:
 
@@ -18,8 +18,8 @@ Facebook: https://www.facebook.com/arafathosense
 
 Email: arafat.bd.hosen@gmail.com
 
-WhatsApp: +8801744805068
+**WhatsApp: +8801744805068**
 
-WeChat: arafat_cn
+**WeChat: arafat_cn**
 
-QQ: 3522584423
+**QQ: 3522584423**
