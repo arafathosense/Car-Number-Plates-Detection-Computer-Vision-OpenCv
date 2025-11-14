@@ -1,4 +1,4 @@
-# Car Number Plates Detection Using (Computer Vision OpenCV)
+**Car Number Plates Detection Using (Computer Vision OpenCV)**
 
 **🧠 Installation & Setup Guide**
 
